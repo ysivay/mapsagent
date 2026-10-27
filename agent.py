@@ -35,3 +35,4 @@ maps_agent = Agent(
     instruction=maps_instruction,
     tools=maps_tools,
 )
+root_agent = maps_agent

@@ -1,0 +1,6 @@
+
+google-adk>=1.0.0
+google-genai
+uvicorn[standard]
+fastapi
+requests
